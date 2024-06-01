@@ -51,7 +51,7 @@ body {
   transform: rotate(calc(360deg / 8 * var(--i)));
   transform-origin: 140px;
   scale: 0;
-  transition-delay: calc(0.5s * var(--i));
+  transition-delay: calc(0.05s * var(--i));
 }
 
 .menu.active li {
